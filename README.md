@@ -36,7 +36,7 @@ PostgreSQL
 Setup
 Clone the repository
 
-git clone https://github.com/your-username/dynatron-customer-service.git
+git clone (https://github.com/FolaBada/Dynatron-customer-service.git)
 cd dynatron-customer-service
 Configure the database connection;
 
